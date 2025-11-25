@@ -48,18 +48,11 @@ Our pipeline consists of three sequential steps, designed to maximize predictive
 | **Performance** | **$R^2$: 0.85** | **Accuracy: 81%** | **AUC: 0.76** |
 | **Input** | 23 Features | 23 Features | 23 Features + **Binding Affinity** |
 
-<p align="center">
-  <img src="outputs/step1_regression/fig_actual_vs_predicted.png" alt="Regression Plot" width="45%">
-  <img src="outputs/step3_class_20_hybrid/fig_roc_curve.png" alt="ROC Curve" width="45%">
-  <br>
-  <em>Figure: (Left) Actual vs Predicted Binding Affinity. (Right) ROC Curve for the Hybrid MLP Model.</em>
-</p>
-
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/3CLpro_ML_Project.git](https://github.com/yourusername/3CLpro_ML_Project.git)
+git clone [https://github.com/yourusername/3CLpro_ML_Project.git]
 cd 3CLpro_ML_Project
