@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+scikit-learn==1.6.1
+xgboost==3.0.0
+lightgbm==4.6.0
+catboost
+meeko
+rdkit
+openpyxl
