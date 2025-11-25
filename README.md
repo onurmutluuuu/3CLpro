@@ -1,6 +1,6 @@
 # 🧬 Machine Learning Approaches to Predict SARS-CoV-2 3CLpro Inhibitors
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![ML Framework](https://img.shields.io/badge/Scikit_Learn-v1.6.1-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Academic_Paper-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
