@@ -4,6 +4,7 @@
 ![ML Framework](https://img.shields.io/badge/Scikit_Learn-v1.6.1-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Academic_Paper-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+[![DOI](https://img.shields.io/badge/DOI-Pending-b31b1b.svg)](https://doi.org/10.xxxx/xxxxx)
 
 > **Official Repository** for the research paper: *"Machine learning approaches to predict SARS-CoV-2 3CLpro inhibitors: A comparative study of in-silico and in-vitro profiles of natural compounds"*
 
@@ -55,4 +56,5 @@ Our pipeline consists of three sequential steps, designed to maximize predictive
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/yourusername/3CLpro_ML_Project.git]
+
 cd 3CLpro_ML_Project
