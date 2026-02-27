@@ -55,6 +55,7 @@ Our pipeline consists of three sequential steps, designed to maximize predictive
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/3CLpro_ML_Project.git]
+git clone https://github.com/yourusername/3CLpro_ML_Project.git
 
 cd 3CLpro_ML_Project
+
